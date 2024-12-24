@@ -5,6 +5,7 @@
 
 ## Callback-функции
 **Callback** — это функция, переданная в другую функцию как аргумент. Она будет вызвана позже, после выполнения основной функции.
+![image](https://github.com/user-attachments/assets/cdc809f1-e2b1-4a01-9880-7c9d1703402b)
 
 Пример: 
 ```javascript
