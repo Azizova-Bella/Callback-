@@ -1,4 +1,5 @@
 # NEWTHEME
+![image](https://github.com/user-attachments/assets/875774b2-087b-4469-b35b-a30934250de8)
 
 # Использование методов callback, filter, map и forEach в JavaScript
 
