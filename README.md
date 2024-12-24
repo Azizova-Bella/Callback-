@@ -1,5 +1,6 @@
 # NEWTHEME
-![image](https://github.com/user-attachments/assets/875774b2-087b-4469-b35b-a30934250de8)
+![image](https://github.com/user-attachments/assets/b5f39c9b-c9e7-4e94-8562-3e95e192941e)
+
 
 # Использование методов callback, filter, map и forEach в JavaScript
 
