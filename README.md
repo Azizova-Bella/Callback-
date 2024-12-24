@@ -56,6 +56,9 @@ console.log(multipliedNumbers); // [10, 20, 30, 40]
 
 ---
 
+
+![image](https://github.com/user-attachments/assets/1d09da31-d419-4b5f-b9e8-4ca6a3235a39)
+
 ## Метод forEach
 Метод `forEach` выполняет указанную функцию один раз для каждого элемента массива. В отличие от `map`, он ничего не возвращает.
 
